@@ -1,8 +1,8 @@
 # FILE NAME - grade_converter.py
 
-# NAME: 
-# DATE: 
-# BRIEF DESCRIPTION:  
+# NAME:Adam Bassi
+# DATE:3/2/2026 
+# BRIEF DESCRIPTION: Grade Converter  
 
 
 
@@ -84,7 +84,7 @@ D
 
 1. What is something you would tell a future student to be careful about when
    doing this lab?
-
+Be careful about the boundary numbers. This lab is about understanding inclusive and exclusive ranges
 
 
 
